@@ -54,8 +54,8 @@ MediExplain/
 
 - [Anurag](https://github.com/Student-Anurag)
 - [Adityaraj](https://github.com/Adityaraj-web)
-- Member 3 Name
-- Member 4 Name
+- [Abhroneel](https://github.com/neel-09)
+- [Poulami](https://github.com/polo784)
 
 ---
 
